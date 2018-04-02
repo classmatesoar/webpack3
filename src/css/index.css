@@ -1,0 +1,24 @@
+html,body,#app{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: darkkhaki;
+}
+#app{
+    background-size: 100% 100%;
+}
+div.container{
+    text-align: center;
+    border: 5px solid #fff;
+}
+*{
+    transition: all 1s;
+    transform: translate(0%,0%) rotate(360deg)
+}
+.wcc{
+    color:#000;
+}
+.wwc{
+    box-shadow: 0 0 100px yellow
+}
